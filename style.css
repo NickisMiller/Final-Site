@@ -3,6 +3,10 @@ body{
 }
 nav{
     align-self: start;
+    padding: 5px;
+}
+h1{
+    padding: 5px;
 }
 #about-me{
     margin: 5px;
@@ -17,6 +21,7 @@ nav{
     width: 70%;
     margin-left: 5px;
     margin-top: 5px;
+    padding: 5px;
 }
 
 #card-group img{
@@ -29,4 +34,8 @@ nav{
     border-width: 3px;
     border-color: black;
     height: 600px;
+    padding: 5px;
+}
+#card-1{
+    background-color: rgba(97, 84, 94, 0.459);
 }
